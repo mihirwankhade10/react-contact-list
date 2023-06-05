@@ -1,0 +1,42 @@
+.contact-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .contact-list {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .btn-update,
+  .btn-delete {
+    margin-left: 10px;
+  }
+  
+  .btn-update {
+    background-color: #1abc9c;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .btn-delete {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
