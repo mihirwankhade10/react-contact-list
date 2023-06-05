@@ -4,10 +4,10 @@ A simple contact list app built with React that allows you to fetch and display 
 
 ## Features
 
-Fetch and display users from the API: https://jsonplaceholder.typicode.com/users
-Add a contact: Makes a POST call to the API to add a new contact (dummy call)
-Update a contact: Makes a PUT call to the API to update an existing contact (dummy call)
-Delete a contact: Makes a DELETE call to the API to delete a contact (dummy call)
+-Fetch and display users from the API: https://jsonplaceholder.typicode.com/users
+-Add a contact: Makes a POST call to the API to add a new contact (dummy call)
+-Update a contact: Makes a PUT call to the API to update an existing contact (dummy call)
+-Delete a contact: Makes a DELETE call to the API to delete a contact (dummy call)
 
 ## Demo
 
@@ -22,7 +22,7 @@ A live demo of the app is deployed on GitHub Pages. You can access it [here](htt
 Follow these steps to run the app locally:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/react-contact-list.git
+   git clone https://github.com/mihirwankhade10/react-contact-list
    
 2. Navigate to the project directory: 
    cd react-contact-list
