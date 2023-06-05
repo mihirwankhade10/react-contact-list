@@ -4,10 +4,10 @@ A simple contact list app built with React that allows you to fetch and display 
 
 ## Features
 
--Fetch and display users from the API: https://jsonplaceholder.typicode.com/users
--Add a contact: Makes a POST call to the API to add a new contact (dummy call)
--Update a contact: Makes a PUT call to the API to update an existing contact (dummy call)
--Delete a contact: Makes a DELETE call to the API to delete a contact (dummy call)
+1. Fetch and display users from the API: https://jsonplaceholder.typicode.com/users
+2. Add a contact: Makes a POST call to the API to add a new contact (dummy call)
+3. Update a contact: Makes a PUT call to the API to update an existing contact (dummy call)
+4. Delete a contact: Makes a DELETE call to the API to delete a contact (dummy call)
 
 ## Demo
 
