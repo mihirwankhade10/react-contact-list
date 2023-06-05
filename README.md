@@ -11,7 +11,7 @@ A simple contact list app built with React that allows you to fetch and display 
 
 ## Demo
 
-A live demo of the app is deployed on GitHub Pages. You can access it [here](https://<username>.github.io/<repository-name>).
+A live demo of the app is deployed on GitHub Pages. You can access it [here](https://mihirwankhade10.github.io/react-contact-list/).
 
 ## Working Screenshot: 
 
